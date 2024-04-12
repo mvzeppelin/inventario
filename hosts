@@ -53,6 +53,7 @@ webserver[1:2]
 
 [db]
 dbserver
+172.16.0.1
 
 #[windows]
 #winclient
